@@ -6,7 +6,7 @@
 🎤 Like to share my knowledge </p> 
 
 
-<p align="left"> <a href="https://www.facebook.com/smtechsoftltd" target="blank"><img src="https://img.shields.io/facebook/follow/shovoalways?logo=twitter&style=for-the-badge" alt="smtechsoft" /></a> </p>
+<p align="left"> <a href="https://www.facebook.com/smtechsoftltd" target="blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="smtechsoft" /></a> </p>
 
 ## 🚀 About Me
 Welcome to SMTECHSOFT — Your Full-Stack Web & Mobile App Development Partner
@@ -28,7 +28,7 @@ From stunning websites to powerful cross-platform mobile apps — we build digit
 
 
 ## ☕ Connect with me!
-[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/shovoalways)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/instagram.png?raw=true' alt='instagram' height='40'>](https://www.instagram.com/shovoalways/)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/twitter.png?raw=true' alt='twitter' height='40'>](https://twitter.com/shovoalways)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/youtube.png?raw=true' alt='YouTube' height='40'>](https://www.youtube.com/@ProcoderBD)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/shovoalways/)  
+[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/smtechsoftltd)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/instagram.png?raw=true' alt='instagram' height='40'>](https://www.instagram.com/smtechsoft/) [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/youtube.png?raw=true' alt='YouTube' height='40'>](https://www.youtube.com/@smtechsoft)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/company/smtechsoft)  
 
 
 
