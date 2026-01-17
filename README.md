@@ -11,6 +11,20 @@ We’re a team of experienced developers, designers, and digital problem-solvers
 
 From stunning websites to powerful cross-platform mobile apps — we build digital experiences that are fast, secure, scalable, and built to convert. 
 
+💼 What We Do Best
+
+🌐 Web Development
+    Full-Stack Development – React.js, Next.js, Laravel, PHP, Node.js, MERN, MySQL, PostgreSQL, MongoDB
+    Custom WordPress Solutions – Themes, plugins, WooCommerce, Elementor, Gutenberg, Divi
+    Website Redesign & Migrations – Modern UI/UX, mobile-first, improved Core Web Vitals
+    SEO Optimization & Performance Tuning – Fast-loading, structured, conversion-optimized sites
+
+📱 Mobile App Development (Flutter)
+    Cross-Platform Flutter Apps – For Android & iOS with beautiful, smooth UIs
+    Firebase & Backend Integration – Firestore, Auth, Cloud Functions, REST APIs, GraphQL
+    State Management Experts – Bloc, Riverpod, Provider, GetX
+    CI/CD Setup & App Deployment – Fastlane, GitHub Actions, App Store & Play Store launches
+
 ## 👨‍💻 Skills & Experiance: 
 ✅ WordPress <br> 
 ✅ JavaScript <br>
